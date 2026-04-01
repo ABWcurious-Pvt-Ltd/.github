@@ -21,14 +21,18 @@
 
 ---
 
-## 📊 Organizational Impact & Engineering Metrics
+## 🤝 Join Our Mission: Careers, Internships & Innovation
 
-We believe in measurable progress, open-source contribution, and continuous systems optimization. Below is a real-time snapshot of our repository activity and algorithmic focus.
+We are actively seeking brilliant minds to solve the next generation of technical challenges. Whether you are looking to build your career or help us solve a complex engineering problem, use the gateway below:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABWcurious-Pvt-Ltd&show_icons=true&theme=transparent&hide_border=true&title_color=0052FF&text_color=777777&icon_color=0052FF&bg_color=00000000" alt="ABWcurious GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABWcurious-Pvt-Ltd&layout=compact&theme=transparent&hide_border=true&title_color=0052FF&text_color=777777&bg_color=00000000" alt="Top Languages" />
+
+| Opportunity | Objective | Action |
+| :--- | :--- | :--- |
+| **🎓 Internships** | For students seeking hands-on industry exposure. | [**Apply Now**](https://forms.gle/LwbrLR5FkzGJN9Zz5) |
+| **💼 Hiring** | For professionals ready to lead digital transformation. | [**Apply Now**](https://forms.gle/LwbrLR5FkzGJN9Zz5) |
+| **🔬 Research & Problems** | Submit technical problems or research suggestions. | [**Submit Proposal**](https://forms.gle/LwbrLR5FkzGJN9Zz5) |
+
 </div>
 
 ---
